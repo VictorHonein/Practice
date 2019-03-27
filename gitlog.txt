@@ -1,0 +1,18 @@
+commit 2333bcb039f8bc3a00c22422289a5559d720c5ef (HEAD -> VictorH, origin/VictorH)
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Wed Mar 27 21:14:51 2019 +0200
+
+    For terry
+
+commit 3bf8642dc4a55408589355d3235986d1a4917726
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Wed Mar 27 20:59:52 2019 +0200
+
+    second version
+
+commit 1e50c585f3bd09ca1cca475570f0d4ef270acc0d (origin/master, master)
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Wed Mar 27 20:51:04 2019 +0200
+
+    Created ReadMe on master
+
